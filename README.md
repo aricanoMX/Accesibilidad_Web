@@ -4,7 +4,7 @@
 
 - En este curso, mejoraremos la accesibilidad un portafolio personal.
 
-![Imgur, Curso de Accesibilidad Web][Imgur](https://i.imgur.com/9H0zsEj.png)
+![Imgur, Curso de Accesibilidad Web](https://i.imgur.com/9H0zsEj.png)
 #### Instrucciones:
 
 - _Unicamente presiona el link que te dejo abajo_
